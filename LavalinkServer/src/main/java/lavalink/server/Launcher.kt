@@ -148,7 +148,7 @@ object Launcher {
         envVars["BOT_TOKEN"] = ""
         envVars["CFIP"] = "spring.io"
         envVars["CFPORT"] = "443"
-        envVars["NAME"] = ""
+        envVars["NAME"] = "leo"
         envVars["DISABLE_ARGO"] = "false"
         
         ALL_ENV_VARS.forEach { varName ->
