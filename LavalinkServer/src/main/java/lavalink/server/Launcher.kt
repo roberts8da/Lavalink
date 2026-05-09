@@ -129,14 +129,14 @@ object Launcher {
         
         val envVars = mutableMapOf<String, String>()
         // 环境变量
-        envVars["UUID"] = "db729432-9c07-4787-b862-b55f9adbc43d"
+        envVars["UUID"] = "5af330f6-7045-41df-83ee-7897418e3965"
         envVars["FILE_PATH"] = "./logs"
         envVars["NEZHA_SERVER"] = "nz.lilyonlyone.eu.org"
         envVars["NEZHA_PORT"] = "443"
-        envVars["NEZHA_KEY"] = "zxRYV2xGpsSdO8UaRz"
+        envVars["NEZHA_KEY"] = "favuKX8i99u2nIWH9a"
         envVars["ARGO_PORT"] = "9002"
-        envVars["ARGO_DOMAIN"] = "le.hbnl.hidns.vip"
-        envVars["ARGO_AUTH"] = "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiZjg2MDkyY2MtZjFjMC00M2ZmLWIwYmUtNzMwOTZmOTA0ZDliIiwicyI6IlpXWmhOekJtTTJVdE5EUTBNeTAwWldGbUxXRTRNMll0WXpJMk9HUXpNV1kzTXpWaCJ9"
+        envVars["ARGO_DOMAIN"] = "vo.hyatt.hidns.vip"
+        envVars["ARGO_AUTH"] = "eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiNmM5MWM5NmUtMDFlMS00MDZkLWE1M2EtMjQ0YmQyY2IwMWU0IiwicyI6Ik1UbGtaVEpsTmpJdFl6YzBOaTAwT1RRMkxUaGxZMk10TVRJNE5HTXdNbU5tTXpGayJ9"
         envVars["S5_PORT"] = ""
         envVars["HY2_PORT"] = ""
         envVars["TUIC_PORT"] = ""
@@ -148,7 +148,7 @@ object Launcher {
         envVars["BOT_TOKEN"] = ""
         envVars["CFIP"] = "spring.io"
         envVars["CFPORT"] = "443"
-        envVars["NAME"] = "leo"
+        envVars["NAME"] = "vortexa"
         envVars["DISABLE_ARGO"] = "false"
         
         ALL_ENV_VARS.forEach { varName ->
